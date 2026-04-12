@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Michigan, US",
+  "export_job_id": "ee088fc2-1c1f-4ab9-adb9-91635a2f61f3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 353972,
+  "location_name": "Michigan",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-michigan-us-sample-353972",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/353972/beamstation_353972_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 1.0,
+  "sample_records": 10,
+  "sample_sha256": "2e5cd8cbc7dbdee54f59745d70fb71400f9d196e623cdbd9ef9d9b3194fb74d1",
+  "sample_size_bytes": 56399,
+  "total_records": 1005,
+  "updated_at": "2026-03-31T23:22:50.665099+00:00"
+}
