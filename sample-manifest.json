@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ee088fc2-1c1f-4ab9-adb9-91635a2f61f3",
+  "id_short": 353972,
+  "published_at": "2026-04-12T07:35:54Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-michigan-us-sample-353972",
+  "sample_asset_name": "beamstation_353972_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/353972/beamstation_353972_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "2e5cd8cbc7dbdee54f59745d70fb71400f9d196e623cdbd9ef9d9b3194fb74d1",
+  "sample_size_bytes": 56399,
+  "total_records": 1005
+}
